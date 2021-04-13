@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "workspaces": ["shared-components", "site-1", "site-2"]
+}
